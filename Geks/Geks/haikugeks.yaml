@@ -1,0 +1,9 @@
+---
+<start>: <5-line> % <7-line> % <5-line>
+<5-line>: <1> <4> |<1> <3> <1> |<1> <1> <3> | <1> <2> <2> | <1> <2> <1> <1> | <1> <1> <2> <1> | <1> <1> <1> <2> | <1> <1> <1> <1> <1> | <2> <3> | <2> <2> <1> | <2> <1> <2> | <2> <1> <1> <1> | <3> <2> | <3> <1> <1> | <4> <1> | <5>
+<7-line>: <1> <1> <5-line> | <2> <5-line> | <5-line> <1> <1> | <5-line> <2>
+<1>: man | speak | tool | up | down | noise | sounds | child | sun | sky | moon | eye | look | see | past | left | air | tree
+<2>: action | shelter | woman | smaller | larger | object | higher | lower | water | listen | forest | mountain
+<3>: family | positive | animal | negative |
+<4>: flowing rapids | generation | celebration | vegetable | technology
+<5>: enthusiastic | photosynthesis | civilisation
